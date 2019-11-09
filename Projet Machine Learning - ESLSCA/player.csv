@@ -1,0 +1,763 @@
+,index,club,id,first_name,last_name,country,real_position,jersey_num,birth_date,weight,height
+0,0,Angers,p40511,Denis,Petric,Slovenia,Goalkeeper,1,1988-05-24,83,187
+1,1,Angers,p119744,Mathieu,Michel,France,Goalkeeper,1,1991-09-04,84,189
+2,2,Angers,p85577,Alexandre,Letellier,France,Goalkeeper,30,1990-12-11,93,193
+3,3,Angers,p174272,Anthony,Mandrea,France,Goalkeeper,40,1996-12-25,78,186
+4,4,Angers,p218123,Maxime,Sivis,Congo DR,Unknown,Unknown,1998-01-04,Unknown,Unknown
+5,5,Angers,p180299,Gabriel,Mutombo Kupa,France,Unknown,Unknown,1996-01-19,75,186
+6,6,Angers,p58309,Yoann,Andreu,France,Full Back,3,1989-05-03,70,178
+7,7,Angers,p68545,Mateo,Pavlovic,Croatia,Central Defender,4,1990-06-09,94,196
+8,8,Angers,p42416,Ismael,Traoré,Côte d'Ivoire,Central Defender,8,1986-08-18,87,184
+9,9,Angers,p93622,Pablo,Martinez,France,Full Back,21,1989-02-21,77,182
+10,10,Angers,p45505,Romain,Thomas,France,Central Defender,24,1988-06-12,84,193
+11,11,Angers,p57266,Abdoulaye,Bamba,Côte d'Ivoire,Full Back,25,1990-04-25,72,182
+12,12,Angers,p213575,Mehdi,Tahrat,Algeria,Central Defender,26,1990-01-24,86,193
+13,13,Angers,p96195,Issa,Cissokho,Senegal,Full Back,28,1985-02-23,73,173
+14,14,Angers,p54518,Vincent,Manceau,France,Full Back,29,1989-07-10,70,176
+15,15,Angers,p212600,Mathias,Serin,France,Attacking Midfielder,Unknown,1991-08-01,59,169
+16,16,Angers,p18574,Thomas,Mangani,France,Central Midfielder,5,1987-04-29,79,183
+17,17,Angers,p15304,Grégory,Bourillon,France,Defensive Midfielder,6,1984-07-01,74,187
+18,18,Angers,p220994,Aissa,Laidouni,France,Unknown,13,1996-12-13,75,179
+19,19,Angers,p112580,Pierrick,Capelle,France,Attacking Midfielder,15,1987-04-15,73,181
+20,20,Angers,p168109,Cheikh,N'Doye,Senegal,Central Midfielder,17,1986-03-29,90,192
+21,21,Angers,p168985,Baptiste,Santamaría,France,Central Midfielder,18,1995-03-09,73,183
+22,22,Angers,p154011,Flavien,Tait,France,Attacking Midfielder,20,1993-02-02,70,175
+23,23,Angers,p195883,Jonathan,Bamba,France,Winger,22,1996-03-26,72,175
+24,24,Angers,p44485,Jamel,Saihi,Tunisia,Defensive Midfielder,23,1987-01-27,75,182
+25,25,Angers,p52002,Goran,Karanoviç,Switzerland,Striker,Unknown,1987-10-13,80,185
+26,26,Angers,p80485,Kévin,Berigaud,France,Striker,2,1988-05-09,72,176
+27,27,Angers,p193454,Karl,Toko Ekambi,Cameroon,Striker,7,1992-09-14,74,185
+28,28,Angers,p149535,Famara,Diedhiou,Senegal,Striker,9,1992-12-15,80,189
+29,29,Angers,p66589,Gilles,Sunu,Togo,Second Striker,10,1991-03-30,83,181
+30,30,Angers,p66757,Dickson,Nwakaeme,Nigeria,Striker,11,1986-04-21,85,187
+31,31,Angers,p216646,Yoane,Wissa,France,Striker,12,1996-09-03,75,180
+32,32,Angers,p81118,Férébory,Doré,Congo,Striker,12,1989-01-21,85,193
+33,33,Angers,p79870,Billy,Ketkeophomphone,France,Winger,14,1990-03-24,71,180
+34,34,Angers,p195735,Nicolas,Pepe,Côte d'Ivoire,Winger,19,1995-05-29,73,183
+35,35,Bastia,p83542,Thomas,Vincensini,France,Goalkeeper,1,1993-09-12,79,184
+36,36,Bastia,p44136,Jean-Louis,Leca,France,Goalkeeper,16,1985-09-21,75,180
+37,37,Bastia,p110143,Paul,Charruau,France,Goalkeeper,30,1993-07-12,85,186
+38,38,Bastia,p16718,Alexis,Thébaux,France,Goalkeeper,30,1985-03-17,81,185
+39,39,Bastia,p218507,Fodé,Camara,Guinea,Full Back,Unknown,1998-04-17,63,167
+40,40,Bastia,p173242,Ismael Chester,Diallo,Côte d'Ivoire,Full Back,Unknown,1997-01-29,74,178
+41,41,Bastia,p106884,Nicolas,Saint-Ruf,France,Central Defender,3,1992-10-24,83,187
+42,42,Bastia,p50301,Abdelhamid,El Kaoutari,Morocco,Central Defender,4,1990-03-17,73,180
+43,43,Bastia,p13439,Sébastien,Squillaci,France,Central Defender,5,1980-08-11,80,185
+44,44,Bastia,p82725,Lindsay,Rose,France,Central Defender,17,1992-02-08,88,186
+45,45,Bastia,p48469,Pierre,Bengtsson,Sweden,Full Back,20,1988-04-12,77,175
+46,46,Bastia,p143685,Alexander,Djiku,France,Full Back,23,1994-08-09,74,182
+47,47,Bastia,p37755,Florian,Marange,France,Full Back,28,1986-03-03,78,181
+48,48,Bastia,p44140,Gilles,Cioni,France,Full Back,29,1984-06-14,65,165
+49,49,Bastia,p243741,Hugo,Magnetti,France,Central Midfielder,Unknown,1998-05-30,72,173
+50,50,Bastia,p250588,Sami,Ben Amar,Morocco,Unknown,Unknown,1998-03-02,78,185
+51,51,Bastia,p81028,Sadio,Diallo,Guinea,Attacking Midfielder,2,1990-12-28,75,182
+52,52,Bastia,p85351,Jerson,Cabral,Cape Verde Islands,Winger,7,1991-01-03,69,177
+53,53,Bastia,p6751,Gaël,Danic,France,Winger,8,1981-11-19,65,176
+54,54,Bastia,p170137,Allan,Saint-Maximin,France,Attacking Midfielder,10,1997-03-12,67,173
+55,55,Bastia,p176983,Lyes,Houri,France,Central Midfielder,10,1996-01-19,71,175
+56,56,Bastia,p105718,Lenny,Nangis,Guadeloupe,Winger,11,1994-03-24,73,172
+57,57,Bastia,p146668,Abdoulaye,Keita,Mali,Central Midfielder,12,1994-01-05,75,175
+58,58,Bastia,p51498,Mehdi,Mostefa,Algeria,Defensive Midfielder,14,1983-08-30,78,181
+59,59,Bastia,p40808,Prince,Oniangué,Congo,Defensive Midfielder,15,1988-11-04,79,188
+60,60,Bastia,p44138,Yannick,Cahuzac,France,Defensive Midfielder,18,1985-01-18,70,178
+61,61,Bastia,p121596,Axel,Ngando,France,Unknown,19,1993-07-13,66,177
+62,62,Bastia,p114531,Farid,Boulaya,Algeria,Attacking Midfielder,22,1993-02-25,69,179
+63,63,Bastia,p215047,Lassana,Coulibaly,Mali,Central Midfielder,25,1996-04-10,75,175
+64,64,Bastia,p232170,Geoffrey,Acheampong,Ghana,Striker,Unknown,1997-01-28,79,180
+65,65,Bastia,p102765,Florian,Raspentino,France,Striker,9,1989-06-06,73,179
+66,66,Bastia,p178492,Enzo,Crivelli,France,Striker,27,1995-02-06,79,184
+67,67,Bastia,p200889,Julien,Romain,France,Striker,27,1996-02-23,74,184
+68,68,Bordeaux,p200848,Paul,Bernardoni,France,Goalkeeper,Unknown,1997-04-18,78,190
+69,69,Bordeaux,p6244,Cédric,Carrasso,France,Goalkeeper,16,1981-12-30,87,187
+70,70,Bordeaux,p181439,Jerome,Prior,France,Goalkeeper,30,1995-08-08,86,187
+71,71,Bordeaux,p433830,Over,Mandanda,France,Goalkeeper,40,1998-10-26,77,179
+72,72,Bordeaux,p174892,Milan,Gajic,Serbia,Full Back,2,1996-01-28,75,178
+73,73,Bordeaux,p59340,Diego,Contento,Germany,Full Back,3,1990-05-01,74,177
+74,74,Bordeaux,p210228,Vukasin,Jovanovic,Serbia,Central Defender,4,1996-05-17,88,189
+75,75,Bordeaux,p220325,Jules,Koundé,France,Central Defender,4,1998-11-12,70,178
+76,76,Bordeaux,p82313,Nicolas,Pallois,France,Central Defender,5,1987-09-19,89,189
+77,77,Bordeaux,p71797,Igor,Lewczuk,Poland,Central Defender,6,1985-05-30,88,189
+78,78,Bordeaux,p12488,Jérémy,Toulalan,France,Central Defender,14,1983-09-10,86,183
+79,79,Bordeaux,p164474,Youssouf,Sabaly,Senegal,Full Back,20,1993-03-05,67,173
+80,80,Bordeaux,p199375,Cédric,Yambéré,Central African Republic,Unknown,21,1990-11-06,84,191
+81,81,Bordeaux,p176443,Théo,Pellenard,France,Full Back,21,1994-03-04,78,184
+82,82,Bordeaux,p116504,Pablo,Nascimento de Castro,Brazil,Central Defender,25,1991-06-21,86,188
+83,83,Bordeaux,p203368,Frederic,Guilbert,France,Full Back,26,1994-12-24,70,178
+84,84,Bordeaux,p424120,Olivier,Verdon,Benin,Central Defender,26,1995-10-05,85,190
+85,85,Bordeaux,p121524,Maxime,Poundjé,France,Full Back,29,1992-08-16,74,180
+86,86,Bordeaux,p203151,Kevin,Soni,Cameroon,Attacking Midfielder,Unknown,1998-04-17,76,183
+87,87,Bordeaux,p171222,Mauro,Arambarri,Uruguay,Defensive Midfielder,8,1995-09-30,74,175
+88,88,Bordeaux,p172870,Younes,Kaabouni,France,Central Midfielder,12,1995-05-23,66,179
+89,89,Bordeaux,p48768,Younousse,Sankharé,Senegal,Central Midfielder,13,1989-09-10,80,184
+90,90,Bordeaux,p49878,Abdou,Traore,Mali,Winger,15,1988-01-17,79,180
+91,91,Bordeaux,p218005,Adam,Ounas,Algeria,Attacking Midfielder,17,1996-11-11,65,172
+92,92,Bordeaux,p12057,Jaroslav,Plasil,Czech Republic,Central Midfielder,18,1982-01-05,71,184
+93,93,Bordeaux,p195982,Valentín,Vada,Argentina,Attacking Midfielder,23,1996-03-06,71,175
+94,94,Bordeaux,p213247,Daniel,Mancini,Argentina,Central Midfielder,28,1996-11-11,72,171
+95,95,Bordeaux,p244182,Zaydou,Youssouf,France,Attacking Midfielder,28,1999-07-11,81,182
+96,96,Bordeaux,p148011,Diego,Rolan,Uruguay,Striker,Unknown,1993-03-24,69,177
+97,97,Bordeaux,p242768,Jorris,Romil,France,Striker,Unknown,1994-12-27,75,185
+98,98,Bordeaux,p181092,Malcom Filipe,Silva de Oliveira,Brazil,Winger,7,1997-02-26,74,172
+99,99,Bordeaux,p19500,Jérémy,Ménez,France,Second Striker,7,1987-05-07,77,181
+100,100,Bordeaux,p176441,Thomas,Touré,Côte d'Ivoire,Second Striker,10,1993-12-27,73,175
+101,101,Bordeaux,p193512,François,Kamano,Guinea,Winger,11,1996-05-02,77,175
+102,102,Bordeaux,p18575,Nicolas,Maurice-Belay,France,Unknown,19,1985-04-19,80,182
+103,103,Bordeaux,p167443,Gaetan,Laborde,France,Striker,24,1994-05-03,81,182
+104,105,Caen,p9997,Rémy,Vercoutre,France,Goalkeeper,1,1980-06-26,78,185
+105,106,Caen,p218071,Louis,Deschateaux,France,Unknown,16,1997-04-16,75,184
+106,107,Caen,p45032,Matthieu,Dreyer,France,Unknown,40,1989-03-20,81,188
+107,108,Caen,p120770,Paul,Reulet,France,Goalkeeper,40,1994-01-14,68,181
+108,109,Caen,p205823,Florian,Le Joncour,France,Central Defender,3,1995-02-03,83,193
+109,110,Caen,p12845,Alaeddine,Yahia,Tunisia,Central Defender,5,1981-09-26,81,187
+110,111,Caen,p83724,Syam,Ben Youssef,Tunisia,Central Defender,13,1989-03-31,89,189
+111,112,Caen,p50326,Emmanuel,Imorou,Benin,Full Back,15,1988-09-16,78,181
+112,113,Caen,p119691,Jordan,Adeoti,Benin,Central Defender,18,1989-03-12,81,183
+113,114,Caen,p37995,Mouhamadou,Dabo,France,Full Back,23,1986-11-28,65,176
+114,116,Caen,p44287,Damien,Da Silva,France,Central Defender,28,1988-05-17,82,184
+115,117,Caen,p44357,Romain,Genevois,Haiti,Central Defender,29,1987-10-28,79,182
+116,118,Caen,p94181,Chaker,Alhadhur,Comoros Islands,Unknown,32,1991-12-04,65,172
+117,119,Caen,p7103,Nicolas,Seube,France,Defensive Midfielder,2,1979-08-11,75,180
+118,120,Caen,p97443,Ismael,Diomande,Côte d'Ivoire,Defensive Midfielder,4,1992-08-28,82,183
+119,121,Caen,p86281,Jonathan,Delaplace,France,Central Midfielder,6,1986-03-20,68,167
+120,122,Caen,p6596,Steed,Malbranque,France,Attacking Midfielder,10,1980-01-06,75,171
+121,123,Caen,p42761,Vincent,Bessat,France,Wing Back,11,1985-11-08,73,178
+122,124,Caen,p199666,Jean-Victor,Makengo,France,Unknown,17,1998-06-12,75,177
+123,125,Caen,p119628,Jordan,N'Kololo,Congo DR,Attacking Midfielder,17,1992-11-09,78,183
+124,126,Caen,p227763,Durel,Avounou,Congo,Defensive Midfielder,18,1997-09-25,71,179
+125,127,Caen,p213335,Jordan,Leborgne,France,Wing Back,19,1995-09-29,63,173
+126,128,Caen,p45082,Julien,Féret,France,Central Midfielder,25,1982-07-05,76,187
+127,129,Caen,p215789,Valentin,Voisin,France,Defensive Midfielder,33,1996-06-19,73,181
+128,130,Caen,p89179,Jeff,Louis,Haiti,Attacking Midfielder,34,1992-08-08,74,171
+129,131,Caen,p420962,Jordan,Tell,France,Striker,Unknown,1997-06-10,74,185
+130,132,Caen,p248687,Exauce,Ngassaki Ndongo,Congo,Unknown,Unknown,1997-01-30,70,182
+131,133,Caen,p184095,Yann,Karamoh,France,Striker,7,1998-07-08,77,185
+132,134,Caen,p50996,Ronny,Rodelin,France,Winger,10,1989-11-18,82,192
+133,135,Caen,p119768,Christian,Kouakou,Côte d'Ivoire,Striker,13,1991-03-01,72,182
+134,136,Caen,p58616,Herve,Bazile,Haiti,Winger,20,1990-03-18,78,182
+135,137,Caen,p60319,Ivan,Santini,Croatia,Striker,26,1989-05-21,90,190
+136,138,Caen,p154481,Pape,Sane,Senegal,Striker,35,1991-12-30,84,187
+137,139,Dijon,p75987,Benjamin,Leroy,France,Goalkeeper,1,1989-04-07,74,184
+138,140,Dijon,p151065,Enzo,Basilio,Italy,Goalkeeper,16,1994-10-03,Unknown,Unknown
+139,141,Dijon,p110369,Bobby,Allain,France,Goalkeeper,16,1991-11-28,77,185
+140,142,Dijon,p93619,Baptiste,Reynet,France,Goalkeeper,30,1990-10-28,85,185
+141,143,Dijon,p121111,Ádám,Lang,Hungary,Central Defender,2,1993-01-17,81,185
+142,144,Dijon,p44082,Arnold,Bouka Moutou,Congo,Full Back,3,1988-11-28,76,176
+143,145,Dijon,p44312,Jordan,Loties,France,Central Defender,4,1984-08-05,82,190
+144,146,Dijon,p241398,Oussama,Haddadi,Tunisia,Full Back,5,1992-01-28,85,184
+145,147,Dijon,p228170,Valentin,Rosier,France,Full Back,19,1996-08-19,71,175
+146,148,Dijon,p106263,Yunis,Abdelhamid,Morocco,Central Defender,21,1987-09-28,83,190
+147,149,Dijon,p100955,Vincent,Rüfli,Switzerland,Full Back,23,1988-01-22,76,180
+148,150,Dijon,p119679,Fouad,Chafik,Morocco,Full Back,26,1986-10-16,72,183
+149,151,Dijon,p13939,Cedric,Varrault,France,Central Defender,27,1980-01-30,76,182
+150,152,Dijon,p193425,Jessy,Benet,France,Central Midfielder,Unknown,1995-06-24,75,186
+151,153,Dijon,p216702,Erwan,Maury,France,Defensive Midfielder,Unknown,1996-06-16,73,183
+152,154,Dijon,p120811,Anthony,Belmonte,France,Defensive Midfielder,3,1995-10-16,72,185
+153,155,Dijon,p228169,Guillaume,Sarrabayrouse,France,Unknown,6,1997-06-14,68,180
+154,156,Dijon,p54413,Frederic,Sammaritano,France,Attacking Midfielder,7,1986-03-23,64,162
+155,157,Dijon,p98746,Mehdi,Abeid,Algeria,Central Midfielder,8,1992-08-06,85,178
+156,158,Dijon,p212325,Pierre,Lees-Melou,France,Unknown,8,1993-05-25,69,185
+157,159,Dijon,p135290,Jeremie,Bela,Congo DR,Unknown,10,1993-04-08,71,173
+158,160,Dijon,p51634,Marvin,Martin,France,Attacking Midfielder,13,1988-01-10,68,171
+159,161,Dijon,p153014,Jordan,Marié,France,Defensive Midfielder,14,1991-09-29,73,177
+160,162,Dijon,p8747,Florent,Balmont,France,Central Midfielder,15,1980-02-02,72,168
+161,163,Dijon,p86158,Romain,Amalfitano,France,Attacking Midfielder,20,1989-08-27,71,175
+162,164,Dijon,p154770,Chang-Hoon,Kwon,Korea Republic,Attacking Midfielder,22,1994-06-30,70,174
+163,165,Dijon,p192278,Dylan,Bahamboula,Congo,Attacking Midfielder,24,1995-05-22,64,185
+164,166,Dijon,p111911,Charly,Dutournier,France,Striker,Unknown,1994-05-15,68,183
+165,167,Dijon,p208747,Mamadou,Thiam,Senegal,Unknown,Unknown,1995-03-20,82,180
+166,168,Dijon,p44406,Yohann,Riviere,France,Unknown,7,1984-08-18,89,186
+167,169,Dijon,p147577,Lois,Diony,France,Striker,9,1992-12-20,82,183
+168,170,Dijon,p111265,Júlio,Tavares,Cape Verde Islands,Winger,11,1988-11-19,88,187
+169,171,Guingamp,p44429,Johny,Placide,Haiti,Goalkeeper,Unknown,1988-01-29,89,181
+170,172,Guingamp,p61741,Karl-Johan,Johnsson,Sweden,Goalkeeper,1,1990-01-28,84,189
+171,173,Guingamp,p212887,Theo,Guivarch,France,Goalkeeper,16,1995-11-17,87,195
+172,174,Guingamp,p37836,Romain,Salin,France,Goalkeeper,30,1984-07-29,71,185
+173,175,Guingamp,p129478,Jordan,Ikoko,Congo DR,Full Back,2,1994-02-03,76,177
+174,176,Guingamp,p111291,Fernando,Marçal de Oliveira,Brazil,Full Back,3,1989-02-19,74,178
+175,177,Guingamp,p67100,Benjamin,Angoua,Côte d'Ivoire,Central Defender,4,1986-11-28,72,183
+176,178,Guingamp,p102744,Baissama,Sankoh,Guinea,Full Back,6,1992-03-20,73,180
+177,179,Guingamp,p78319,Dorian,Lévêque,France,Full Back,7,1989-11-22,72,182
+178,180,Guingamp,p42714,Jérémy,Sorbon,France,Central Defender,15,1983-08-05,79,183
+179,181,Guingamp,p28140,Jonathan,Martins Pereira,France,Central Defender,22,1986-01-30,78,182
+180,182,Guingamp,p42722,Reynald,Lemaître,France,Full Back,25,1983-06-28,70,175
+181,183,Guingamp,p102739,Christophe,Kerbrat,France,Central Defender,29,1986-08-02,74,185
+182,184,Guingamp,p249455,Yvan,Inzoudine,France,Unknown,Unknown,1996-12-10,Unknown,Unknown
+183,185,Guingamp,p423870,Matteo,Ahlinvi,France,Defensive Midfielder,Unknown,1999-07-02,68,183
+184,186,Guingamp,p206873,Jonathan,Correia,France,Unknown,Unknown,1994-02-13,65,175
+185,187,Guingamp,p39905,Moustapha,Diallo,Senegal,Defensive Midfielder,5,1986-05-14,78,192
+186,188,Guingamp,p213940,Ludovic,Blas,France,Winger,7,1997-12-31,73,180
+187,189,Guingamp,p45084,Lucas,Deaux,France,Central Midfielder,8,1988-12-26,82,188
+188,190,Guingamp,p89038,Nicolas,Benezet,France,Winger,10,1991-02-24,65,170
+189,191,Guingamp,p55343,Yannis,Salibur,France,Winger,19,1991-01-24,76,177
+190,192,Guingamp,p12179,Étienne,Didot,France,Central Midfielder,22,1983-07-24,70,176
+191,193,Guingamp,p201562,Marcus,Coco,France,Winger,24,1996-06-24,78,184
+192,194,Guingamp,p44100,Thibault,Giresse,France,Central Midfielder,26,1981-05-25,69,172
+193,195,Guingamp,p26896,Mathieu,Bodmer,France,Defensive Midfielder,27,1982-11-22,90,190
+194,196,Guingamp,p220001,Jeremy,Livolant,France,Attacking Midfielder,31,1998-01-09,70,175
+195,197,Guingamp,p189542,Alexandre,Mendy,France,Striker,9,1994-03-20,94,185
+196,198,Guingamp,p49367,Sloan,Privat,France,Striker,11,1989-07-24,82,186
+197,199,Guingamp,p54533,Nill,de Pauw,Belgium,Striker,12,1990-01-06,76,180
+198,200,Guingamp,p223169,Sullivan,Martinet,France,Unknown,14,1996-07-01,69,174
+199,201,Guingamp,p172918,Karim,Achahbar,Morocco,Striker,14,1996-01-03,70,182
+200,202,Guingamp,p27675,Jimmy,Briand,France,Striker,23,1985-08-02,84,181
+201,203,Lille,p13262,Vincent,Enyeama,Nigeria,Goalkeeper,Unknown,1982-08-29,87,182
+202,204,Lille,p129487,Mike,Maignan,France,Goalkeeper,16,1995-07-03,89,191
+203,205,Lille,p201559,Jean,Butez,France,Goalkeeper,30,1995-06-08,70,188
+204,206,Lille,p244753,Valentin,Vanbaleghem,France,Unknown,Unknown,1996-10-09,73,184
+205,207,Lille,p209171,Carlens,Arcus,Haiti,Unknown,Unknown,1996-06-28,75,180
+206,208,Lille,p37439,Marko,Basa,Montenegro,Central Defender,Unknown,1982-12-29,86,190
+207,209,Lille,p39804,Julian,Palmieri,France,Full Back,Unknown,1986-12-07,64,170
+208,210,Lille,p60121,Sébastien,Corchia,France,Full Back,2,1990-11-01,69,176
+209,211,Lille,p180124,Youssouf,Kone,Mali,Full Back,3,1995-07-05,71,174
+210,212,Lille,p168097,Júnior,Alonso,Paraguay,Central Defender,3,1993-02-09,83,185
+211,213,Lille,p226597,Gabriel,dos Santos Magalhães,Brazil,Central Defender,4,1997-12-19,78,190
+212,214,Lille,p103155,Adama,Soumaoro,France,Central Defender,5,1992-06-18,93,186
+213,215,Lille,p80342,Stoppila,Sunzu,Zambia,Central Defender,13,1989-06-22,80,189
+214,216,Lille,p12656,Franck,Beria,France,Full Back,18,1983-05-23,76,177
+215,217,Lille,p232174,Hamza,Mendyl,Morocco,Full Back,27,1997-10-21,73,179
+216,218,Lille,p161039,Fares,Bahlouli,France,Central Midfielder,Unknown,1995-04-08,82,182
+217,219,Lille,p213942,Alexis,Araujo,Portugal,Unknown,Unknown,1996-12-07,53,159
+218,221,Lille,p83913,Éric,Bautheac,France,Winger,Unknown,1987-08-24,65,168
+219,222,Lille,p128348,Ibrahim,Amadou,France,Defensive Midfielder,6,1993-04-06,81,183
+220,223,Lille,p242600,Miguel Angelo,da Silva Rocha,Portugal,Central Midfielder,8,1994-11-10,80,185
+221,224,Lille,p178003,Ricardo,Kishna,Netherlands,Winger,10,1995-01-04,77,183
+222,225,Lille,p109653,Marcos Paulo,Mesquita Lopes,Portugal,Attacking Midfielder,17,1995-12-28,68,174
+223,226,Lille,p245634,Valere,Pollet,France,Central Midfielder,17,1997-06-27,71,177
+224,227,Lille,p103119,Soualiho,Meité,France,Central Midfielder,17,1994-03-17,80,187
+225,228,Lille,p227127,Yves,Bissouma,Mali,Central Midfielder,21,1996-08-30,80,182
+226,229,Lille,p18787,Rio,Mavuba,France,Central Midfielder,24,1984-03-08,74,172
+227,230,Lille,p98788,Naim,Sliti,Tunisia,Winger,27,1992-07-27,76,173
+228,231,Lille,p232175,Rominigue,Kouame,Mali,Full Back,29,1996-12-17,68,177
+229,232,Lille,p52635,Ederzito António,Macedo Lopes,Portugal,Striker,Unknown,1987-12-22,81,190
+230,233,Lille,p114534,Tallo,Gadji-Celi Carmel Junior,Côte d'Ivoire,Striker,Unknown,1992-12-21,77,185
+231,235,Lille,p157728,Baptiste,Guillaume,Belgium,Striker,Unknown,1995-06-16,77,189
+232,236,Lille,p193488,Anwar,El Ghazi,Netherlands,Winger,7,1995-05-03,90,189
+233,237,Lille,p116628,Yassine,Benzia,Algeria,Attacking Midfielder,10,1994-09-08,76,178
+234,238,Lille,p73879,Nicolas,de Preville,France,Striker,12,1991-01-08,77,177
+235,239,Lille,p230337,Lebo,Mothiba,South Africa,Striker,18,1996-01-28,78,181
+236,240,Lille,p232176,Martin,Terrier,France,Unknown,28,1997-03-04,71,184
+237,241,Lorient,p220059,Anthony,Lamonge,France,Goalkeeper,Unknown,1996-04-04,80,184
+238,242,Lorient,p54409,Paul,Delecroix,France,Goalkeeper,16,1988-10-14,77,184
+239,243,Lorient,p86873,Benjamin,Lecomte,France,Goalkeeper,40,1991-04-26,78,186
+240,244,Lorient,p168117,Yoann,Wachter,Gabon,Central Defender,Unknown,1992-04-07,65,177
+241,245,Lorient,p198188,Erwin,Koffi,France,Full Back,2,1995-01-10,69,178
+242,246,Lorient,p227217,Bradley,Mazikou,Congo,Unknown,3,1996-06-02,69,177
+243,247,Lorient,p54408,Zargo,Toure,Senegal,Central Defender,5,1989-11-11,79,183
+244,248,Lorient,p202967,Faiz,Selemani,Comoros Islands,Full Back,11,1993-11-14,65,182
+245,249,Lorient,p37740,Michael,Ciani,France,Central Defender,13,1984-04-06,88,189
+246,251,Lorient,p141017,Steven,Moreira,France,Full Back,20,1994-08-13,72,178
+247,252,Lorient,p57129,Mathieu,Peybernes,France,Central Defender,23,1990-10-21,78,186
+248,253,Lorient,p85565,Wesley,Lautoa,France,Central Defender,24,1987-08-25,87,182
+249,254,Lorient,p67278,Vincent,Le Goff,France,Full Back,25,1989-10-15,68,177
+250,255,Lorient,p57734,Pape,Paye,France,Full Back,29,1990-05-31,65,168
+251,256,Lorient,p227300,Ibrahima Sory,Conté,Guinea,Central Defender,32,1996-04-03,82,191
+252,257,Lorient,p242166,Matteo,Guendouzi,France,Central Midfielder,4,1999-04-14,64,185
+253,258,Lorient,p51524,Francois,Bellugou,France,Defensive Midfielder,6,1987-04-25,74,188
+254,259,Lorient,p27674,Arnold,Mvuemba,France,Defensive Midfielder,7,1985-01-28,67,172
+255,260,Lorient,p166325,Carlos Miguel,Ribeiro Dias,Portugal,Central Midfielder,8,1993-02-26,82,185
+256,261,Lorient,p218357,Alexis,Claude Maurice,France,Central Midfielder,10,1998-06-06,62,174
+257,262,Lorient,p202459,Marvin,Gakpa,France,Unknown,11,1993-11-01,70,182
+258,263,Lorient,p227326,Mohamed,Mara,Guinea,Winger,11,1996-12-12,64,176
+259,264,Lorient,p67346,Walid,Mesloub,Algeria,Attacking Midfielder,17,1985-09-04,72,181
+260,265,Lorient,p150172,Romain,Philippoteaux,France,Attacking Midfielder,19,1988-03-02,67,170
+261,266,Lorient,p87215,Alhassan,Wakaso,Ghana,Defensive Midfielder,23,1992-01-07,80,180
+262,267,Lorient,p227218,Issam,Ben Khemis,Tunisia,Unknown,26,1996-01-10,72,175
+263,268,Lorient,p216227,Denis,Bouanga,Gabon,Attacking Midfielder,26,1994-11-11,71,180
+264,269,Lorient,p151912,Jimmy,Cabot,France,Winger,27,1994-04-18,65,164
+265,270,Lorient,p62226,Maxime,Barthelme,France,Attacking Midfielder,28,1988-09-08,73,176
+266,271,Lorient,p37939,Sylvain,Marveaux,France,Attacking Midfielder,31,1986-04-15,66,172
+267,272,Lorient,p82184,Abdul Majeed,Waris,Ghana,Striker,9,1991-09-19,70,172
+268,273,Lorient,p73678,Benjamin,Moukandjo,Cameroon,Striker,12,1988-11-12,74,180
+269,274,Lorient,p11839,Jérémie,Aliadière,France,Striker,14,1983-03-30,70,183
+270,275,Lorient,p73667,Benjamin,Jeannot,France,Striker,22,1992-01-22,78,183
+271,276,Lorient,p193408,Valentin,Lavigne,France,Striker,28,1994-06-04,75,171
+272,277,Lorient,p242167,Pierre-Yves,Hamel,France,Striker,29,1994-03-19,67,185
+273,278,Lyon,p59957,Anthony,Lopes,Portugal,Goalkeeper,1,1990-10-01,81,184
+274,279,Lyon,p213402,Lucas,Mocio,France,Goalkeeper,16,1994-05-11,85,197
+275,280,Lyon,p59956,Mathieu,Gorgelin,France,Goalkeeper,30,1990-08-05,83,187
+276,281,Lyon,p44488,Mapou,Yanga-Mbiwa,France,Central Defender,2,1989-05-15,77,184
+277,282,Lyon,p52775,Nicolas,Nkoulou,Cameroon,Central Defender,3,1990-03-27,77,180
+278,283,Lyon,p54772,Rafael,Pereira da Silva,Brazil,Full Back,4,1990-07-09,78,172
+279,284,Lyon,p208135,Mouctar,Diakhaby,France,Central Defender,5,1996-12-19,78,189
+280,285,Lyon,p38265,Christophe,Jallet,France,Full Back,13,1983-10-31,70,178
+281,286,Lyon,p37832,Jérémy,Morel,France,Full Back,15,1984-04-02,71,172
+282,287,Lyon,p234458,Jordy,Gaspar,France,Full Back,23,1997-04-23,58,172
+283,288,Lyon,p173211,Emanuel,Mammana,Argentina,Central Defender,24,1996-02-10,70,183
+284,289,Lyon,p202888,Dylan,Mboumbouni,France,Unknown,Unknown,1996-02-20,75,182
+285,290,Lyon,p165572,Olivier,Kemen,France,Attacking Midfielder,Unknown,1996-07-20,78,177
+286,291,Lyon,p55305,Clément,Grenier,France,Attacking Midfielder,7,1991-01-07,72,186
+287,292,Lyon,p231961,Houssem,Aouar,France,Central Midfielder,8,1998-06-30,70,175
+288,293,Lyon,p168568,Corentin,Tolisso,France,Central Midfielder,8,1994-08-03,81,181
+289,294,Lyon,p115858,Rachid,Ghezzal,Algeria,Winger,11,1992-05-09,70,182
+290,295,Lyon,p107641,Jordan,Ferri,France,Defensive Midfielder,12,1992-03-12,70,172
+291,296,Lyon,p169007,Sergi,Darder,Spain,Central Midfielder,14,1993-12-22,71,180
+292,297,Lyon,p59963,Maxime,Gonalons,France,Central Midfielder,21,1989-03-10,76,187
+293,298,Lyon,p37852,Mathieu,Valbuena,France,Attacking Midfielder,28,1984-09-28,58,167
+294,299,Lyon,p203349,Lucas,Tousart,France,Central Midfielder,29,1997-04-29,83,185
+295,300,Lyon,p71389,Maciej,Rybus,Poland,Wing Back,31,1989-08-19,75,173
+296,301,Lyon,p219873,Romain,Del Castillo,France,Unknown,39,1996-03-29,60,172
+297,302,Lyon,p59966,Alexandre,Lacazette,France,Striker,10,1991-05-28,73,175
+298,303,Lyon,p106824,Memphis,Depay,Netherlands,Winger,11,1994-02-13,78,176
+299,304,Lyon,p208556,Myziane,Maolida,France,Striker,17,1999-02-14,70,180
+300,305,Lyon,p166552,Nabil,Fekir,France,Second Striker,18,1993-07-18,72,173
+301,306,Lyon,p231747,Jean-Philippe,Mateta,France,Striker,19,1997-06-28,84,192
+302,307,Lyon,p220560,Gaetan,Perrin,France,Striker,22,1996-06-07,63,169
+303,308,Lyon,p213401,Aldo,Kalulu,France,Unknown,26,1996-01-21,66,166
+304,309,Lyon,p149519,Maxwel,Cornet,Côte d'Ivoire,Second Striker,27,1996-09-27,69,179
+305,310,Lyon,p240084,Alan,Dzabana,France,Unknown,46,1997-03-25,71,171
+306,311,Marseille,p107254,Julien,Fabri,France,Goalkeeper,Unknown,1994-02-05,75,183
+307,312,Marseille,p102836,Brice,Samba,France,Goalkeeper,1,1994-04-25,79,186
+308,313,Marseille,p37769,Yohann,Pelé,France,Goalkeeper,16,1982-11-04,89,196
+309,314,Marseille,p208134,Florian,Escales,France,Goalkeeper,40,1996-02-03,78,184
+310,315,Marseille,p216289,Brice,Nlate,Cameroon,Unknown,Unknown,1995-10-08,83,186
+311,316,Marseille,p107259,Baptiste,Aloe,France,Central Defender,Unknown,1994-06-29,77,184
+312,317,Marseille,p194142,Stephane,Sparagna,France,Unknown,Unknown,1995-02-17,83,186
+313,318,Marseille,p132227,Gaël,Andonian,Armenia,Full Back,Unknown,1995-02-07,74,185
+314,319,Marseille,p109404,Hiroki,Sakai,Japan,Full Back,2,1990-04-12,70,183
+315,320,Marseille,p116736,Matheus,Doria Macedo,Brazil,Central Defender,3,1994-11-08,82,189
+316,321,Marseille,p103040,Karim,Rekik,Netherlands,Central Defender,4,1994-12-02,84,186
+317,322,Marseille,p39294,Rolando Jorge,Pires da Fonseca,Portugal,Central Defender,6,1985-08-31,77,189
+318,323,Marseille,p44324,Henri,Bedimo,Cameroon,Full Back,12,1984-06-04,80,180
+319,324,Marseille,p102760,Bouna,Sarr,France,Full Back,17,1992-01-31,65,177
+320,325,Marseille,p14075,Patrice,Evra,France,Full Back,21,1981-05-15,75,174
+321,326,Marseille,p13356,Rod,Fanni,France,Full Back,24,1981-12-06,78,186
+322,327,Marseille,p49181,Tomas,Hubocan,Slovakia,Central Defender,25,1985-09-17,70,184
+323,328,Marseille,p202416,Alphousseyni,Sane,France,Central Defender,34,1996-01-17,68,174
+324,329,Marseille,p226944,Boubacar,Kamara,France,Defensive Midfielder,4,1999-11-23,68,178
+325,330,Marseille,p121117,Lucas,Ocampos,Argentina,Attacking Midfielder,5,1994-07-11,84,187
+326,331,Marseille,p28566,Vassiriki,Abou Diaby,France,Central Midfielder,5,1986-05-11,75,191
+327,332,Marseille,p66957,Rémy,Cabella,France,Attacking Midfielder,7,1990-03-08,68,171
+328,333,Marseille,p122775,Morgan,Sanson,France,Attacking Midfielder,8,1994-08-18,73,180
+329,334,Marseille,p37901,Dimitri,Payet,France,Attacking Midfielder,10,1987-03-29,77,175
+330,335,Marseille,p40815,William,Vainqueur,France,Defensive Midfielder,19,1988-11-19,73,179
+331,336,Marseille,p56995,Grégory,Sertic,France,Defensive Midfielder,22,1989-08-05,76,183
+332,337,Marseille,p210415,Zinedine,Machach,France,Central Midfielder,23,1996-01-05,77,185
+333,338,Marseille,p169427,Saif-Eddine,Khaoui,Tunisia,Attacking Midfielder,24,1995-04-27,68,180
+334,339,Marseille,p175077,Bill Poni,Tuiloma,New Zealand,Central Midfielder,25,1995-03-27,78,178
+335,340,Marseille,p95434,Florian,Thauvin,France,Attacking Midfielder,26,1993-01-26,70,179
+336,341,Marseille,p213965,Maxime,Lopez,France,Attacking Midfielder,27,1997-12-04,58,167
+337,342,Marseille,p203325,André-Frank,Zambo Anguissa,Cameroon,Central Midfielder,29,1995-11-16,78,184
+338,343,Marseille,p145212,Clinton,N'Jie,Cameroon,Second Striker,14,1993-08-15,68,175
+339,344,Marseille,p37998,Bafétimbi,Gomis,France,Striker,18,1985-08-06,77,184
+340,345,Marseille,p185727,Aaron,Leya Iseka,Belgium,Striker,22,1997-11-15,85,182
+341,346,Marseille,p221456,Antoine,Rabillard,France,Unknown,28,1995-09-22,76,181
+342,347,Marseille,p194300,Jérémie,Porsan-Clemente,France,Striker,32,1997-12-16,69,179
+343,348,Metz,p165457,Thomas,Didillon,France,Goalkeeper,1,1995-11-28,84,193
+344,349,Metz,p19739,Eiji,Kawashima,Japan,Goalkeeper,16,1983-03-20,74,185
+345,350,Metz,p83280,David,Oberhauser,France,Goalkeeper,30,1990-11-29,82,186
+346,351,Metz,p242205,Lemouya,Goudiaby,France,Central Defender,Unknown,1997-01-09,70,175
+347,352,Metz,p423869,Theodore,Efouba Ayissi,France,Central Defender,Unknown,1997-05-05,75,184
+348,353,Metz,p219145,Oumar,Gonzalez,France,Central Defender,Unknown,1998-02-25,84,186
+349,354,Metz,p193518,Mederic,Deher,France,Unknown,Unknown,1994-10-11,78,184
+350,355,Metz,p221987,Matthieu,Udol,France,Full Back,3,1996-03-20,74,178
+351,356,Metz,p61678,Fallou,Diagne,Senegal,Central Defender,3,1989-08-14,75,185
+352,357,Metz,p133633,Guido,Milán,Argentina,Central Defender,5,1987-07-03,93,193
+353,358,Metz,p39490,Milan,Bisevac,Serbia,Central Defender,6,1983-08-31,81,185
+354,359,Metz,p108988,Simon,Falette,Guinea,Central Defender,6,1992-02-19,89,184
+355,360,Metz,p12400,Franck,Signorino,France,Full Back,13,1981-09-19,67,176
+356,361,Metz,p232181,Vahid,Selimovic,Serbia,Central Defender,15,1997-04-03,75,190
+357,362,Metz,p233469,Nicolas,Basin,France,Full Back,22,1998-07-22,Unknown,182
+358,363,Metz,p116692,Chris,Philipps,Luxembourg,Central Defender,23,1994-03-08,80,182
+359,364,Metz,p97624,Iván,Balliu,Albania,Full Back,25,1992-01-01,63,172
+360,365,Metz,p80800,Jonathan,Rivierez,France,Full Back,28,1989-05-18,82,181
+361,366,Metz,p28146,Benoit,Assou-Ekotto,Cameroon,Full Back,32,1984-03-24,70,178
+362,367,Metz,p167454,Hamza,Sakhi,Morocco,Attacking Midfielder,Unknown,1996-06-07,68,173
+363,368,Metz,p421128,Boris,Mathis,France,Unknown,Unknown,1997-08-15,Unknown,Unknown
+364,369,Metz,p158771,Janis,Ikaunieks,Latvia,Unknown,Unknown,1995-02-16,73,183
+365,370,Metz,p214255,Lucas,Toussaint,France,Defensive Midfielder,Unknown,1996-03-29,79,185
+366,371,Metz,p244490,Youssef,Maziz,France,Central Midfielder,Unknown,1998-06-24,Unknown,175
+367,372,Metz,p44379,Yann,Jouffre,France,Winger,8,1984-07-23,74,176
+368,373,Metz,p232182,Gauthier,Hein,France,Winger,8,1996-08-07,62,170
+369,374,Metz,p78323,Cheick,Doukouré,Côte d'Ivoire,Central Midfielder,10,1992-09-11,82,180
+370,375,Metz,p124148,Opa,Nguette,Senegal,Winger,11,1994-07-08,73,181
+371,376,Metz,p43455,Georges,Mandjeck,Cameroon,Central Midfielder,14,1988-12-09,75,183
+372,377,Metz,p225190,Vincent,Thill,Luxembourg,Attacking Midfielder,18,2000-02-04,69,170
+373,378,Metz,p116627,Florent,Mollet,France,Central Midfielder,19,1991-11-19,67,174
+374,379,Metz,p232184,Alexis,Larriere,France,Unknown,20,1997-03-20,76,180
+375,380,Metz,p37743,Kévin,Lejeune,France,Winger,22,1985-01-22,81,181
+376,381,Metz,p37765,Renaud,Cohade,France,Attacking Midfielder,24,1984-09-29,74,180
+377,382,Metz,p232185,Ismaila,Sarr,Senegal,Winger,26,1998-02-25,76,185
+378,383,Metz,p19510,Mevlüt,Erdinc,Turkey,Striker,9,1987-02-25,85,181
+379,384,Metz,p111315,Thibaut,Vion,France,Striker,15,1993-12-11,81,185
+380,385,Metz,p33103,Cheick,Diabaté,Mali,Striker,18,1988-04-25,88,194
+381,386,Metz,p214254,Habib,Diallo,Senegal,Striker,20,1995-06-18,75,185
+382,387,Monaco,p60582,Danijel,Subasic,Croatia,Goalkeeper,1,1984-10-27,84,191
+383,388,Monaco,p7446,Morgan,De Sanctis,Italy,Goalkeeper,16,1977-03-26,86,190
+384,389,Monaco,p192291,Seydou,Sy,Senegal,Goalkeeper,30,1995-12-12,80,192
+385,390,Monaco,p218389,Loic,Badiashile,France,Goalkeeper,40,1998-02-05,80,186
+386,391,Monaco,p209853,Dinis Costa,Lima Almeida,Portugal,Central Defender,Unknown,1995-06-28,72,190
+387,392,Monaco,p422230,Kouadio,Dabila,Côte d'Ivoire,Central Defender,Unknown,1997-01-01,Unknown,183
+388,393,Monaco,p49272,Elderson,Echiéjilé,Nigeria,Full Back,Unknown,1988-01-20,76,184
+389,394,Monaco,p240132,Safwan,Mbae,France,Central Defender,Unknown,1997-04-20,63,181
+390,395,Monaco,p210133,Raphael,Diarra,France,Unknown,Unknown,1995-05-27,76,185
+391,396,Monaco,p162654,Jemerson,de Jesus Nascimento,Brazil,Central Defender,5,1992-08-24,77,184
+392,397,Monaco,p218796,Kevin,N'Doram,France,Central Defender,6,1996-01-22,77,185
+393,398,Monaco,p181978,Jorge Marco,de Oliveira Moraes,Brazil,Full Back,6,1996-03-28,70,184
+394,399,Monaco,p102747,Djibril,Sidibe,France,Full Back,19,1992-07-29,71,182
+395,400,Monaco,p102826,Benjamin,Mendy,France,Full Back,23,1994-07-17,85,185
+396,401,Monaco,p232191,Pierre-Daniel,N'Guinda N'Diffon,France,Full Back,23,1996-06-18,80,184
+397,402,Monaco,p15930,Andrea,Raggi,Italy,Central Defender,24,1984-06-24,82,187
+398,403,Monaco,p71403,Kamil,Glik,Poland,Central Defender,25,1988-02-03,80,190
+399,404,Monaco,p178478,Abdou,Diallo,France,Unknown,34,1996-05-04,79,186
+400,405,Monaco,p216925,Mehdi,Beneddine,France,Full Back,36,1996-02-26,67,177
+401,406,Monaco,p192292,Almamy,Touré,Mali,Full Back,38,1996-04-28,72,183
+402,407,Monaco,p219422,Yhoan,Andzouana,Congo,Central Midfielder,Unknown,1996-12-13,69,177
+403,408,Monaco,p240136,Tristan,Muyumba Nkita,France,Defensive Midfielder,Unknown,1997-03-07,Unknown,165
+404,409,Monaco,p216054,Rúben Gonçalo,Silva Nascimento Vinagre,Portugal,Unknown,Unknown,1999-04-09,64,174
+405,410,Monaco,p247116,Dylan,Beaulieu,France,Attacking Midfielder,Unknown,1997-03-05,52,179
+406,411,Monaco,p222438,Corentin,Tirard,France,Winger,Unknown,1995-10-18,69,174
+407,412,Monaco,p116643,Fabio Henrique,Tavares,Brazil,Defensive Midfielder,2,1993-10-23,78,188
+408,413,Monaco,p54930,Nabil,Dirar,Morocco,Attacking Midfielder,7,1986-02-25,79,187
+409,416,Monaco,p19624,João Filipe Iria,Santos Moutinho,Portugal,Attacking Midfielder,8,1986-09-08,61,170
+410,417,Monaco,p165809,Bernardo Mota,Veiga de Carvalho e Silva,Portugal,Attacking Midfielder,10,1994-08-10,64,173
+411,418,Monaco,p198065,Adama,Traoré,Mali,Central Midfielder,11,1995-06-28,72,180
+412,419,Monaco,p169102,Tiemoué,Bakayoko,France,Defensive Midfielder,14,1994-08-17,77,185
+413,420,Monaco,p214472,Youssef,Aït Bennasser,Morocco,Defensive Midfielder,15,1996-07-07,75,184
+414,421,Monaco,p172987,Gabriel,Boschilia,Brazil,Attacking Midfielder,26,1996-03-05,63,172
+415,422,Monaco,p167449,Thomas,Lemar,France,Attacking Midfielder,27,1995-11-12,62,171
+416,423,Monaco,p219230,Gil,Bastião Dias,Portugal,Attacking Midfielder,31,1996-09-28,75,183
+417,424,Monaco,p213967,Jonathan,Mexique,France,Unknown,44,1995-03-10,74,175
+418,425,Monaco,p221652,Mohamed Ilyes,Chaibi,France,Striker,Unknown,1996-10-12,65,176
+419,426,Monaco,p240146,Adrien,Bongiovanni,Belgium,Striker,Unknown,1999-09-20,Unknown,170
+420,427,Monaco,p56345,Lacina,Traoré,Côte d'Ivoire,Striker,Unknown,1990-05-20,87,203
+421,428,Monaco,p48847,Radamel,Falcao,Colombia,Striker,9,1986-02-10,72,177
+422,429,Monaco,p220160,Kylian,Mbappé,France,Striker,10,1998-12-20,73,178
+423,430,Monaco,p98914,Guido,Carrillo,Argentina,Striker,11,1991-05-25,87,191
+424,431,Monaco,p97041,Valère,Germain,France,Second Striker,18,1990-04-17,73,180
+425,432,Monaco,p126177,Corentin,Jean,France,Striker,28,1995-07-15,65,170
+426,433,Monaco,p240145,Irvin,Cardona,France,Unknown,37,1997-08-08,77,185
+427,434,Montpellier,p9999,Laurent,Pionnier,France,Goalkeeper,1,1982-05-24,77,183
+428,435,Montpellier,p209218,Dimitry,Bertaud,France,Goalkeeper,16,1998-06-06,85,180
+429,436,Montpellier,p44476,Geoffrey,Jourdren,France,Goalkeeper,16,1986-02-04,85,183
+430,437,Montpellier,p86598,Jonathan,Ligali,France,Goalkeeper,30,1991-05-28,86,184
+431,438,Montpellier,p185473,Mamadou,N'Diaye,Senegal,Unknown,2,1995-05-28,62,174
+432,439,Montpellier,p38002,Daniel,Congré,France,Central Defender,3,1985-04-05,80,185
+433,440,Montpellier,p28136,Vitorino Hilton,Da Silva,Brazil,Central Defender,4,1977-09-13,78,180
+434,441,Montpellier,p170443,Lukas,Pokorny,Czech Republic,Central Defender,12,1993-07-05,83,190
+435,442,Montpellier,p245750,Bryan,Passi,France,Central Defender,15,1997-08-05,78,189
+436,443,Montpellier,p57263,William,Remy,France,Central Defender,21,1991-04-04,79,184
+437,444,Montpellier,p200834,Nordi,Mukiele,France,Central Defender,23,1997-11-01,74,185
+438,445,Montpellier,p93289,Jérôme,Roussillon,France,Full Back,24,1993-01-06,80,175
+439,446,Montpellier,p89518,Mathieu,Deplagne,France,Full Back,25,1991-10-01,78,183
+440,447,Montpellier,p235862,Morgan,Poaty,France,Central Defender,26,1997-07-15,73,177
+441,448,Montpellier,p40682,Cédric,Mongongu,Congo DR,Central Defender,27,1989-06-22,82,188
+442,449,Montpellier,p244181,Alexandre,Llovet,France,Unknown,Unknown,1997-11-26,63,172
+443,450,Montpellier,p90255,Yacouba,Sylla,Mali,Central Midfielder,5,1990-11-29,79,184
+444,451,Montpellier,p37831,Joris,Marveaux,France,Defensive Midfielder,6,1982-08-15,72,179
+445,452,Montpellier,p72177,Paul,Lasne,France,Central Midfielder,7,1989-01-16,77,186
+446,453,Montpellier,p55264,Ryad,Boudebouz,Algeria,Winger,10,1990-02-19,70,177
+447,454,Montpellier,p204454,Isaac,Mbenza,Belgium,Winger,10,1996-03-08,77,187
+448,455,Montpellier,p199672,Nanitamo Jonathan,Ikone,France,Unknown,11,1998-05-02,67,175
+449,456,Montpellier,p195430,Ellyes,Skhiri,Tunisia,Defensive Midfielder,13,1995-05-10,73,185
+450,457,Montpellier,p219107,Pierrick,Fito,France,Unknown,17,1996-06-01,75,175
+451,458,Montpellier,p228361,Keagan,Dolly,South Africa,Winger,20,1993-01-22,70,170
+452,459,Montpellier,p219079,Killian,Sanson,France,Central Midfielder,22,1997-06-07,64,173
+453,460,Montpellier,p34392,Stéphane,Sessegnon,Benin,Attacking Midfielder,28,1984-06-01,72,172
+454,462,Montpellier,p169141,Steve,Mounie,Benin,Striker,15,1994-09-29,83,190
+455,463,Montpellier,p10955,Souleymane,Camara,Senegal,Striker,19,1982-12-22,75,174
+456,464,Montpellier,p216438,Rodrigue Casimir,Ninga,Chad,Winger,29,1993-05-17,81,186
+457,465,Nancy,p63600,Sergey,Chernik,Belarus,Goalkeeper,1,1988-07-20,84,187
+458,466,Nancy,p38816,Guy,NDy Assembe,Cameroon,Goalkeeper,16,1986-02-28,88,185
+459,467,Nancy,p174598,Alexandre,Menay,France,Goalkeeper,30,1996-07-05,76,186
+460,468,Nancy,p152337,Tobias,Badila,Congo,Full Back,3,1993-05-12,80,181
+461,469,Nancy,p170034,Modou,Diagne,Senegal,Central Defender,4,1994-01-03,74,188
+462,470,Nancy,p247120,Ryan,Bidounga,France,Central Defender,5,1997-04-29,83,185
+463,471,Nancy,p80799,Joffrey,Cuffaut,France,Full Back,14,1988-03-15,74,180
+464,472,Nancy,p49169,Michael Basser,Chretien,Morocco,Full Back,20,1984-07-10,70,179
+465,473,Nancy,p169586,Erick,Cabaco,N/A,Central Defender,24,1995-04-19,84,185
+466,474,Nancy,p43024,Vincent,Muratori,France,Full Back,26,1987-08-03,71,179
+467,475,Nancy,p54911,Julien,Cetout,France,Full Back,28,1988-01-02,78,181
+468,476,Nancy,p8742,Alou,Diarra,France,Defensive Midfielder,5,1981-07-15,79,190
+469,478,Nancy,p38008,Antony,Robic,France,Winger,7,1986-03-05,77,181
+470,479,Nancy,p209874,Vincent,Marchetti,France,Defensive Midfielder,8,1997-07-04,70,181
+471,480,Nancy,p422474,Amine,Bassi,France,Attacking Midfielder,10,1997-11-27,65,173
+472,481,Nancy,p210460,Serge,N'Guessan,Côte d'Ivoire,Central Midfielder,13,1994-07-31,65,165
+473,482,Nancy,p214473,Christ-Emmanuel Faitout,Maouassa,France,Unknown,17,1998-07-06,73,170
+474,483,Nancy,p49275,Diallo,Guidileye,Mauritania,Defensive Midfielder,18,1989-12-30,80,181
+475,484,Nancy,p93498,Loïc,Puyo,France,Winger,19,1988-12-19,77,182
+476,485,Nancy,p9980,Benoit,Pedretti,France,Central Midfielder,25,1980-11-12,71,178
+477,486,Nancy,p162315,Alexis,Busin,France,Winger,27,1995-09-07,65,175
+478,487,Nancy,p51327,Maurice Junior,Dalé,France,Striker,9,1985-07-12,81,186
+479,488,Nancy,p39379,Issiar,Dia,Senegal,Winger,10,1987-06-08,73,172
+480,489,Nancy,p154022,Karim,Coulibaly,France,Winger,11,1993-06-03,80,184
+481,490,Nancy,p44314,Christophe,Mandanne,France,Striker,12,1985-02-07,62,171
+482,491,Nancy,p205551,Yann,Mabella,France,Striker,14,1996-02-22,80,183
+483,492,Nancy,p27670,Youssouf,Hadji,Morocco,Striker,15,1980-02-25,77,183
+484,493,Nancy,p97290,Anthony,Koura,Burkina Faso,Striker,23,1993-05-06,70,173
+485,494,Nantes,p37838,Rémy,Riou,France,Goalkeeper,1,1987-08-06,81,191
+486,495,Nantes,p97288,Maxime,Dupé,France,Goalkeeper,1,1993-03-04,87,186
+487,496,Nantes,p216610,Alexandre,Olliero,France,Goalkeeper,16,1996-02-15,85,193
+488,497,Nantes,p220110,Quentin,Braat,France,Goalkeeper,40,1997-07-06,85,193
+489,498,Nantes,p135285,David,Alcibiade,France,Unknown,2,1991-09-26,72,174
+490,499,Nantes,p165659,Diego Carlos,Santos Silva,Brazil,Central Defender,3,1993-03-15,79,185
+491,500,Nantes,p33946,Oswaldo,Vizcarrondo,Venezuela,Central Defender,4,1984-05-31,85,191
+492,501,Nantes,p102766,Koffi,Djidji,Côte d'Ivoire,Full Back,5,1992-11-30,71,184
+493,502,Nantes,p116536,Lucas Pedro,Alves de Lima,Brazil,Full Back,6,1991-10-10,72,178
+494,503,Nantes,p49381,Wilfried,Moimbé,France,Full Back,13,1988-10-18,67,172
+495,504,Nantes,p183779,Léo,Dubois,France,Full Back,15,1994-09-14,65,178
+496,505,Nantes,p215046,Enock,Kwateng,France,Full Back,25,1997-04-09,75,183
+497,506,Nantes,p200722,Anthony,Walongwa,Congo DR,Central Defender,26,1993-10-15,81,182
+498,507,Nantes,p119735,Jules,Iloki,France,Winger,7,1992-01-14,69,172
+499,508,Nantes,p115961,Adrien,Thomasson,France,Central Midfielder,8,1993-12-10,72,177
+500,509,Nantes,p42518,Alexander,Kacaniklic,Sweden,Winger,11,1991-08-13,72,181
+501,510,Nantes,p229608,Amine,Harit,Morocco,Attacking Midfielder,14,1997-06-18,67,180
+502,511,Nantes,p247693,Randal,Kolo Muani,France,Unknown,15,1998-12-05,73,187
+503,512,Nantes,p158496,Abdoulaye,Touré,France,Defensive Midfielder,19,1994-03-03,88,186
+504,513,Nantes,p78638,Sérgio Miguel,Relvas de Oliveira,Portugal,Winger,23,1992-06-02,72,181
+505,514,Nantes,p218666,Alexis Alegue,Elandi,Cameroon,Winger,24,1996-12-23,68,175
+506,515,Nantes,p42586,Guillaume,Gillet,Belgium,Defensive Midfielder,27,1984-03-09,79,186
+507,516,Nantes,p193539,Valentin,Rongier,France,Defensive Midfielder,28,1994-12-07,70,172
+508,517,Nantes,p103124,Emiliano,Sala,Argentina,Striker,9,1990-10-31,75,187
+509,518,Nantes,p193409,Yacine,Bammou,Morocco,Striker,10,1991-09-11,78,188
+510,519,Nantes,p108143,Mariusz,Stepinski,Poland,Striker,18,1995-05-12,72,183
+511,520,Nantes,p149695,Felipe,Pardo,Colombia,Second Striker,20,1990-08-17,84,178
+512,521,Nantes,p85416,Prejuce,Nakoulma,Burkina Faso,Winger,22,1987-04-21,72,178
+513,522,Nantes,p83758,Kolbeinn,Sigthorsson,Iceland,Striker,31,1990-03-14,84,186
+514,523,Nice,p115357,Mouez,Hassen,Tunisia,Goalkeeper,1,1995-03-05,80,186
+515,524,Nice,p27663,Simon,Pouplin,France,Goalkeeper,16,1985-05-28,78,187
+516,525,Nice,p115851,Yoan,Cardinale,France,Goalkeeper,30,1994-03-27,84,181
+517,526,Nice,p121709,Walter,Benítez,Argentina,Goalkeeper,40,1993-03-19,91,191
+518,527,Nice,p78275,Arnaud,Souquet,France,Full Back,2,1992-02-12,72,180
+519,528,Nice,p141109,Gautier,Lloris,France,Central Defender,3,1995-07-18,83,191
+520,529,Nice,p37758,Paul,Baysse,France,Central Defender,4,1988-05-18,85,187
+521,530,Nice,p232197,Patrick,Burner,France,Full Back,15,1996-04-11,65,170
+522,531,Nice,p61739,Maxime,Le Marchand,France,Central Defender,20,1989-10-11,77,185
+523,532,Nice,p111931,Ricardo Domingos,Barbosa Pereira,Portugal,Full Back,21,1993-10-06,70,175
+524,533,Nice,p244560,Romain,Perraud,France,Full Back,22,1997-09-22,68,173
+525,534,Nice,p204727,Malang,Sarr,France,Central Defender,23,1999-01-23,73,182
+526,535,Nice,p204120,Olivier,Boscagli,France,Full Back,28,1997-11-18,68,181
+527,536,Nice,p212752,Dalbert Henrique,Chagas Estevao,Brazil,Full Back,29,1993-09-08,70,181
+528,537,Nice,p26894,Dante Bonfim,Costa Santos,Brazil,Central Defender,31,1983-10-18,89,188
+529,538,Nice,p208560,Hicham,Mahou,France,Winger,Unknown,1999-07-02,64,177
+530,539,Nice,p37974,Mounir,Obbadi,Morocco,Central Midfielder,Unknown,1983-04-04,65,172
+531,540,Nice,p66959,Younès,Belhanda,Morocco,Attacking Midfielder,5,1990-02-25,78,177
+532,541,Nice,p153649,Remi,Walter,France,Defensive Midfielder,6,1995-04-26,73,174
+533,542,Nice,p170271,Jean Michael,Seri,Côte d'Ivoire,Defensive Midfielder,6,1991-07-19,65,168
+534,543,Nice,p245496,Bassem,Srarfi,Tunisia,Winger,11,1997-06-25,71,176
+535,544,Nice,p133747,Albert,Rafetraniaina,France,Defensive Midfielder,12,1996-09-09,66,176
+536,545,Nice,p91070,Valentin,Eysseric,France,Attacking Midfielder,13,1992-03-25,73,181
+537,546,Nice,p115370,Bryan,Constant,France,Attacking Midfielder,19,1994-03-27,76,183
+538,547,Nice,p233498,Vincent,Marcel,France,Winger,19,1997-04-09,65,180
+539,548,Nice,p193417,Arnaud,Lusamba,France,Attacking Midfielder,22,1997-01-04,74,179
+540,549,Nice,p110903,Alexy,Bosetti,France,Winger,23,1993-04-23,65,170
+541,550,Nice,p151873,Wylan,Cyprien,France,Central Midfielder,25,1995-01-28,75,180
+542,551,Nice,p194141,Vincent,Koziello,France,Central Midfielder,26,1995-10-28,58,168
+543,552,Nice,p172841,Said,Benrahma,Algeria,Unknown,Unknown,1995-08-10,67,172
+544,553,Nice,p42493,Mario,Balotelli,Italy,Striker,9,1990-08-12,88,189
+545,554,Nice,p83279,Mickael,Le Bihan,France,Striker,10,1990-05-16,80,184
+546,555,Nice,p108168,Alassane,Pléa,France,Striker,14,1993-03-10,79,181
+547,556,Nice,p204184,Anastasios,Donis,Greece,Second Striker,22,1996-08-29,76,178
+548,557,Nice,p221626,Dorian,Caddy,France,Unknown,27,1995-03-20,87,186
+549,558,Paris SG,p213199,Remy,Descamps,France,Goalkeeper,Unknown,1996-06-25,79,194
+550,559,Paris SG,p84182,Alphonse,Areola,France,Goalkeeper,16,1993-02-27,88,195
+551,560,Paris SG,p52482,Kevin,Trapp,Germany,Goalkeeper,30,1990-07-08,88,189
+552,561,Paris SG,p21155,Salvatore,Sirigu,Italy,Goalkeeper,30,1987-01-12,80,192
+553,563,Paris SG,p51090,Thiago Emiliano,da Silva,Brazil,Central Defender,2,1984-09-22,79,183
+554,564,Paris SG,p129479,Presnel,Kimpembe,France,Central Defender,3,1995-08-13,71,189
+555,565,Paris SG,p116406,Marcos,Aoas Correa,Brazil,Central Defender,5,1994-05-14,75,183
+556,566,Paris SG,p93605,Thomas,Meunier,Belgium,Full Back,12,1991-09-12,88,190
+557,567,Paris SG,p9809,Maxwell,Scherrer Cabelino Andrade,Brazil,Full Back,17,1981-08-27,73,176
+558,568,Paris SG,p80226,Serge,Aurier,Côte d'Ivoire,Full Back,19,1992-12-24,76,176
+559,569,Paris SG,p89068,Layvin,Kurzawa,France,Full Back,20,1992-09-04,74,182
+560,570,Paris SG,p102660,Kevin,Rimane,France,Unknown,32,1991-02-23,Unknown,181
+561,571,Paris SG,p199663,Alec,Georgen,France,Unknown,39,1998-09-17,65,172
+562,572,Paris SG,p423151,Gaëtan,Robail,France,Unknown,Unknown,1994-01-09,Unknown,182
+563,573,Paris SG,p172984,Gustavo,Hebling,Brazil,Unknown,Unknown,1996-04-05,64,175
+564,575,Paris SG,p212950,Lorenzo,Callegari,France,Unknown,Unknown,1998-02-27,71,174
+565,576,Paris SG,p73494,Grzegorz,Krychowiak,Poland,Defensive Midfielder,4,1990-01-29,83,186
+566,577,Paris SG,p61170,Marco,Verratti,Italy,Central Midfielder,6,1992-11-05,60,165
+567,578,Paris SG,p95715,Lucas,Rodrigues Moura da Silva,Brazil,Winger,7,1992-08-13,72,172
+568,579,Paris SG,p11527,Thiago,Motta,Italy,Central Midfielder,8,1982-08-28,83,187
+569,580,Paris SG,p46497,Ángel,Di María,Argentina,Attacking Midfielder,11,1988-02-14,75,180
+570,581,Paris SG,p37971,Blaise,Matuidi,France,Defensive Midfielder,14,1987-04-09,75,180
+571,582,Paris SG,p200826,Giovani,Lo Celso,Argentina,Attacking Midfielder,18,1996-04-09,68,177
+572,583,Paris SG,p18753,Hatem,Ben Arfa,France,Attacking Midfielder,21,1987-03-07,65,178
+573,584,Paris SG,p92985,Julian,Draxler,Germany,Attacking Midfielder,23,1993-09-20,72,187
+574,585,Paris SG,p213198,Christopher,Nkunku,France,Winger,24,1997-11-14,68,178
+575,586,Paris SG,p120743,Adrien,Rabiot,France,Central Midfielder,25,1995-04-03,71,188
+576,587,Paris SG,p54782,Javier,Pastore,Argentina,Attacking Midfielder,27,1989-06-20,78,187
+577,588,Paris SG,p225903,Antoine,Bernede,France,Unknown,28,1999-05-26,74,177
+578,589,Paris SG,p198523,Jean-Kévin,Augustin,France,Unknown,29,1997-06-16,69,177
+579,590,Paris SG,p93496,Jean-Christophe,Bahebeck,France,Striker,Unknown,1993-05-01,76,182
+580,591,Paris SG,p199670,Odsonne,Edouard,France,Striker,Unknown,1998-01-16,83,187
+581,592,Paris SG,p181284,Gonçalo Manuel,Ganchinho Guedes,Portugal,Winger,Unknown,1996-11-29,68,179
+582,593,Paris SG,p93127,Jesé,Rodríguez Ruiz,Spain,Winger,Unknown,1993-02-26,72,178
+583,594,Paris SG,p40720,Edinson,Cavani,Uruguay,Striker,9,1987-02-14,71,184
+584,595,Rennes,p42713,Benoit,Costil,France,Goalkeeper,1,1987-07-03,88,187
+585,596,Rennes,p79625,Abdoulaye,Diallo,Senegal,Goalkeeper,16,1992-03-30,82,191
+586,597,Rennes,p28549,Rais,M'bolhi,Algeria,Goalkeeper,16,1986-04-25,83,188
+587,598,Rennes,p167054,Edvinas,Gertmonas,Lithuania,Goalkeeper,30,1996-06-01,92,192
+588,599,Rennes,p247439,Romain,Cagnon,France,Goalkeeper,40,1997-05-12,85,192
+589,600,Rennes,p220646,Sega,Coulibaly,France,Central Defender,Unknown,1996-06-09,87,184
+590,601,Rennes,p169019,Dimitri Kevin,Cavaré,Guadeloupe,Unknown,Unknown,1995-02-05,84,184
+591,602,Rennes,p111002,Mehdi,Zeffane,Algeria,Full Back,2,1992-05-19,73,176
+592,603,Rennes,p80357,Edson Andre,Sitoe,Mozambique,Central Defender,4,1988-09-08,79,188
+593,604,Rennes,p106821,Pedro Filipe,Teodósio Mendes,Portugal,Central Defender,5,1990-10-01,78,186
+594,605,Rennes,p218705,Joris,Gnagnon,France,Central Defender,5,1997-01-13,89,182
+595,606,Rennes,p189791,Ramy,Bensebaini,Algeria,Central Defender,15,1995-04-16,80,187
+596,607,Rennes,p84361,Ermir,Lenjani,Albania,Wing Back,17,1989-08-05,65,175
+597,608,Rennes,p6701,Sylvain,Armand,France,Full Back,22,1980-08-01,82,182
+598,609,Rennes,p37776,Ludovic,Baal,French Guiana,Wing Back,24,1986-05-24,75,176
+599,610,Rennes,p189562,Afonso Mendes,Ribeiro Figueiredo,Portugal,Full Back,25,1993-01-06,63,169
+600,611,Rennes,p217992,Jeremy,Gelin,France,Central Defender,26,1997-04-24,77,182
+601,612,Rennes,p37938,Romain,Danzé,France,Full Back,29,1986-07-03,73,184
+602,613,Rennes,p244754,Namakoro,Diallo,France,Full Back,36,1996-03-29,72,178
+603,614,Rennes,p194299,Anthony,Ribelin,France,Winger,Unknown,1996-04-08,73,177
+604,615,Rennes,p38438,Clément,Chantôme,France,Central Midfielder,Unknown,1987-09-11,71,180
+605,616,Rennes,p39680,Gelson,Fernandes,Switzerland,Defensive Midfielder,6,1986-09-02,70,179
+606,617,Rennes,p106551,Sanjin,Prcic,Bosnia and Herzegovina,Central Midfielder,10,1993-11-20,73,181
+607,618,Rennes,p244842,James,Lea Siliki,France,Central Midfielder,12,1996-06-12,70,183
+608,619,Rennes,p37962,Morgan,Amalfitano,France,Central Midfielder,18,1985-03-20,68,176
+609,620,Rennes,p55948,Benjamin,André,France,Central Midfielder,21,1990-08-03,76,180
+610,621,Rennes,p161472,Adrien,Hunou,France,Attacking Midfielder,23,1994-01-19,66,176
+611,622,Rennes,p215755,Denis,Poha,France,Central Midfielder,28,1997-05-28,72,173
+612,623,Rennes,p27669,Yoann,Gourcuff,France,Attacking Midfielder,28,1986-07-11,82,185
+613,624,Rennes,p217993,Nicolas,Janvier,France,Central Midfielder,35,1998-08-11,71,171
+614,625,Rennes,p221441,Sebastien,Salles-Lamonge,France,Unknown,38,1996-01-28,67,170
+615,627,Rennes,p199734,Firmin Ndombe,Mubele,Congo DR,Winger,9,1994-04-17,74,175
+616,628,Rennes,p161034,Wesley,Said,France,Striker,11,1995-04-19,75,171
+617,629,Rennes,p42484,Giovanni,Sio,Côte d'Ivoire,Second Striker,13,1989-03-31,80,180
+618,631,Rennes,p233497,Adama,Diakhaby,France,Winger,17,1996-07-05,74,188
+619,632,Rennes,p52317,Kermit,Erasmus,South Africa,Second Striker,34,1990-07-08,63,167
+620,633,Saint-Étienne,p214042,Anthony,Maisonnial,France,Goalkeeper,1,1998-03-23,77,187
+621,634,Saint-Étienne,p38314,Stéphane,Ruffier,France,Goalkeeper,16,1986-09-27,93,188
+622,635,Saint-Étienne,p37990,Jessy,Moulin,France,Goalkeeper,30,1986-01-13,88,185
+623,636,Saint-Étienne,p240185,Alexis,Guendouz,France,Goalkeeper,40,1996-01-26,89,189
+624,637,Saint-Étienne,p245742,Mickael,Nade,France,Unknown,Unknown,1999-03-04,Unknown,Unknown
+625,638,Saint-Étienne,p115846,Jerrold,Nyemeck,France,Unknown,Unknown,1994-05-07,77,180
+626,639,Saint-Étienne,p58636,Kévin,Théophile-Catherine,France,Central Defender,2,1989-10-28,84,183
+627,640,Saint-Étienne,p112323,Pierre-Yves,Polomat,France,Central Defender,3,1993-12-27,78,183
+628,641,Saint-Étienne,p83577,Léo,Lacroix,Switzerland,Central Defender,4,1992-02-27,85,195
+629,642,Saint-Étienne,p45136,Cheikh,M'Bengue,Senegal,Full Back,12,1988-07-23,79,182
+630,643,Saint-Étienne,p79237,Florentin,Pogba,Guinea,Central Defender,19,1990-08-19,93,189
+631,644,Saint-Étienne,p19670,Loic,Perrin,France,Central Defender,24,1985-08-07,80,181
+632,645,Saint-Étienne,p83340,Kevin,Malcuit,France,Full Back,25,1991-07-31,75,178
+633,646,Saint-Étienne,p220074,Ronael,Pierre Gabriel,France,Full Back,29,1998-06-13,76,177
+634,647,Saint-Étienne,p115845,Benjamin,Karamoko,France,Full Back,32,1995-05-17,77,187
+635,648,Saint-Étienne,p245915,Kenny,Rocha Santos,Cape Verde Islands,Central Midfielder,Unknown,2000-01-03,67,174
+636,649,Saint-Étienne,p241099,Rayan,Souici,France,Defensive Midfielder,Unknown,1998-02-28,Unknown,Unknown
+637,650,Saint-Étienne,p85548,Vincent,Pajot,France,Defensive Midfielder,5,1990-08-19,68,180
+638,651,Saint-Étienne,p18635,Jérémy,Clément,France,Central Midfielder,6,1984-08-26,76,180
+639,652,Saint-Étienne,p83561,Bryan,Dabo,Burkina Faso,Central Midfielder,7,1992-02-18,75,187
+640,653,Saint-Étienne,p86446,Benjamin,Corgnet,France,Central Midfielder,8,1987-04-06,73,180
+641,654,Saint-Étienne,p43521,Henri,Saivet,Senegal,Central Midfielder,11,1990-10-26,76,174
+642,655,Saint-Étienne,p173253,Habib,Maïga,Côte d'Ivoire,Defensive Midfielder,13,1996-01-01,80,181
+643,656,Saint-Étienne,p96740,Jordan,Veretout,France,Central Midfielder,14,1993-03-01,67,177
+644,657,Saint-Étienne,p216584,Erin,Jorge Gomes Pinheiro,Cape Verde Islands,Unknown,15,1997-07-15,82,190
+645,658,Saint-Étienne,p101494,Ole,Selnaes,Norway,Central Midfielder,17,1994-07-07,77,187
+646,659,Saint-Étienne,p43553,Fabien,Lemoine,France,Central Midfielder,18,1987-03-16,70,175
+647,660,Saint-Étienne,p235050,Arnaud,Nordin,France,Winger,18,1998-06-17,68,170
+648,661,Saint-Étienne,p67276,Romain,Hamouma,France,Winger,21,1987-03-29,76,178
+649,662,Saint-Étienne,p204150,Dylan,Saint-Louis,Congo,Second Striker,Unknown,1995-04-26,77,184
+650,663,Saint-Étienne,p136377,Jorge Fernando,Barbosa Intima,Guinea-Bissau,Unknown,Unknown,1995-09-21,64,171
+651,664,Saint-Étienne,p422089,Lamine,Ghezali,France,Unknown,Unknown,1999-07-06,Unknown,Unknown
+652,665,Saint-Étienne,p115382,Neal,Maupay,France,Striker,Unknown,1996-08-14,69,171
+653,666,Saint-Étienne,p221717,Hamidou,Keyta,France,Unknown,Unknown,1994-12-17,78,186
+654,667,Saint-Étienne,p51525,Nolan,Roux,France,Striker,9,1988-03-01,81,182
+655,669,Saint-Étienne,p38261,Kévin,Monnet-Paquet,France,Winger,22,1988-08-19,81,184
+656,670,Saint-Étienne,p63100,Alexander,Søderlund,Norway,Striker,23,1987-08-03,86,187
+657,671,Saint-Étienne,p124182,Oussama,Tannane,Morocco,Winger,25,1994-03-23,80,177
+658,672,Saint-Étienne,p55711,Robert,Beric,Slovenia,Striker,27,1991-06-17,83,188
+659,673,Toulouse,p132197,Mauro,Goicoechea,Uruguay,Goalkeeper,1,1988-03-27,82,186
+660,674,Toulouse,p74299,Marc,Vidal,France,Goalkeeper,16,1991-06-03,83,183
+661,675,Toulouse,p204739,Alban,Lafont,France,Goalkeeper,40,1999-01-23,82,193
+662,676,Toulouse,p217596,Kelvin,Amian,France,Full Back,2,1998-02-08,78,180
+663,677,Toulouse,p120773,Yrondu,Musavu-King,Gabon,Central Defender,3,1992-01-08,81,186
+664,678,Toulouse,p219924,Issa,Diop,France,Central Defender,5,1997-01-09,92,194
+665,679,Toulouse,p114546,Christopher,Jullien,France,Central Defender,6,1993-03-22,88,196
+666,680,Toulouse,p104359,Jean-Daniel,Akpa Akpro,Côte d'Ivoire,Full Back,7,1992-10-11,71,180
+667,681,Toulouse,p145221,Issiaga,Sylla,Guinea,Full Back,12,1994-01-01,75,180
+668,682,Toulouse,p229605,Clement,Michelin,France,Full Back,13,1997-05-11,63,178
+669,683,Toulouse,p118910,Uros,Spajic,Serbia,Central Defender,15,1993-02-13,80,188
+670,684,Toulouse,p105706,Steeve,Yago,Burkina Faso,Central Defender,20,1992-12-16,77,180
+671,685,Toulouse,p49912,Dusan,Veskovac,Serbia,Central Defender,22,1986-03-16,82,187
+672,686,Toulouse,p50351,Pavle,Ninkov,Serbia,Full Back,24,1985-04-20,80,181
+673,687,Toulouse,p100954,François,Moubandje,Switzerland,Full Back,29,1990-06-21,74,180
+674,688,Toulouse,p111678,Dominik,Furman,Poland,Central Midfielder,Unknown,1992-07-06,71,181
+675,689,Toulouse,p60163,Tongo,Doumbia,Mali,Defensive Midfielder,4,1989-08-06,79,191
+676,691,Toulouse,p219002,Dodi,Lukebakio,Belgium,Winger,8,1997-09-24,77,187
+677,692,Toulouse,p40721,Óscar,Trejo,Argentina,Attacking Midfielder,10,1988-04-26,79,180
+678,693,Toulouse,p6294,Pantxi,Sirieix,France,Central Midfielder,14,1980-10-07,70,180
+679,694,Toulouse,p210462,Ibrahim,Sangaré,Côte d'Ivoire,Central Midfielder,17,1997-12-02,77,191
+680,695,Toulouse,p101779,Wergiton,do Rosário Calmon,Brazil,Defensive Midfielder,19,1988-09-28,73,180
+681,696,Toulouse,p61704,Jimmy,Durmaz,Sweden,Winger,21,1989-03-22,69,180
+682,697,Toulouse,p194302,Yann,Bodiger,France,Central Midfielder,23,1995-02-09,80,188
+683,698,Toulouse,p168434,Jessy,Pi,France,Central Midfielder,25,1993-09-24,74,180
+684,699,Toulouse,p220494,Quentin,Boisgard,France,Attacking Midfielder,26,1997-03-17,75,174
+685,700,Toulouse,p217597,Mathieu,Cafaro,France,Unknown,26,1997-03-25,74,178
+686,701,Toulouse,p201392,Alexis,Blin,France,Defensive Midfielder,27,1996-09-16,78,184
+687,702,Toulouse,p93989,Aleksandar,Pesic,Serbia,Unknown,8,1992-05-21,87,191
+688,703,Toulouse,p68690,Martin,Braithwaite,Denmark,Striker,9,1991-06-05,77,180
+689,704,Toulouse,p73965,Andy,Delort,France,Striker,10,1991-10-09,83,181
+690,705,Toulouse,p52154,Ola,Toivonen,Sweden,Striker,11,1986-07-03,78,189
+691,708,N/A,p247117,Habib,Oueslati,Tunisia,Unknown,Unknown,Unknown,Unknown,Unknown
+692,709,N/A,p221442,Matteo,Petitgenet,France,Goalkeeper,Unknown,1997-05-21,75,180
+693,710,N/A,p243742,Ronan,Touzet,France,Unknown,Unknown,1997-11-05,Unknown,Unknown
+694,711,N/A,p101232,Jonas-Henrique,Pessalli,Brazil,Unknown,Unknown,1990-09-24,73,180
+695,712,N/A,p44408,Ibrahima,Diallo,Guinea,Full Back,Unknown,1985-09-26,78,180
+696,713,N/A,p107613,Romain,Saïss,Morocco,Defensive Midfielder,28,1990-03-26,80,190
+697,714,N/A,p242165,Lucas,Triki,France,Unknown,Unknown,1998-05-06,75,177
+698,715,N/A,p203025,Julien,Benhaim,France,Unknown,Unknown,1996-10-25,75,180
+699,716,N/A,p95461,Thievy,Bifouma Koulossa,Congo,Striker,13,1992-05-13,80,180
+700,719,N/A,p106272,Isaac,Thelin,Sweden,Striker,Unknown,1992-06-24,82,189
+701,720,N/A,p242514,Christopher,Operi,France,Unknown,Unknown,1997-04-29,73,182
+702,722,N/A,p50148,Johan,Gastien,France,Central Midfielder,22,1988-01-25,66,181
+703,723,N/A,p110347,Quentin,Bernard,France,Unknown,5,1989-07-07,77,184
+704,724,N/A,p210207,Fousseni,Diabaté,Mali,Unknown,Unknown,1995-10-18,60,175
+705,725,N/A,p219100,Alexis,Mane,France,Unknown,Unknown,1997-04-30,72,188
+706,726,N/A,p235215,Victor,Mouangue Kingue,France,Unknown,Unknown,1998-03-08,63,172
+707,727,N/A,p48603,Ronnie,Schwartz,Denmark,Striker,Unknown,1989-08-29,80,183
+708,728,N/A,p232173,Clement,Petrel,France,Goalkeeper,Unknown,1997-03-20,78,181
+709,729,N/A,p245632,Olivier,Lesueur,France,Unknown,Unknown,1997-07-11,Unknown,Unknown
+710,730,N/A,p247036,Ryad,Habbas,France,Unknown,Unknown,1997-07-16,Unknown,Unknown
+711,731,N/A,p245633,Emmanuel,Debordeaux,France,Unknown,Unknown,1993-03-22,Unknown,Unknown
+712,733,N/A,p61529,Ryan,Mendes da Graça,Cape Verde Islands,Second Striker,20,1990-01-08,73,175
+713,736,N/A,p31878,Renato,Civelli,Argentina,Central Defender,5,1983-10-14,92,195
+714,737,N/A,p202675,Benjamin,Pavard,France,Unknown,28,1996-03-28,76,186
+715,738,N/A,p128198,Sofiane,Boufal,Morocco,Unknown,7,1993-09-17,60,170
+716,739,N/A,p234518,Alexandre,Lavenant,France,Unknown,Unknown,1995-03-24,Unknown,175
+717,740,N/A,p131259,Moryke,Fofana,Côte d'Ivoire,Unknown,23,1991-11-23,76,178
+718,741,N/A,p144660,Didier,Ndong,Gabon,Unknown,7,1994-06-17,75,179
+719,742,N/A,p213400,Maxime,D'Arpino,France,Unknown,Unknown,1996-06-17,62,175
+720,743,N/A,p56674,Gueida,Fofana,France,Defensive Midfielder,6,1991-05-16,74,182
+721,744,N/A,p199667,Timothe,Cognat,France,Unknown,Unknown,1998-01-25,78,176
+722,745,N/A,p185353,Eirik,Haugan,Norway,Central Defender,Unknown,1997-08-27,70,180
+723,746,N/A,p20468,Lassana,Diarra,France,Defensive Midfielder,10,1985-03-10,73,173
+724,747,N/A,p221455,Julien,Da Costa,France,Unknown,Unknown,1996-05-29,77,182
+725,748,N/A,p86140,Romain,Alessandrini,France,Unknown,11,1989-04-03,70,173
+726,749,N/A,p168566,Georges-Kévin,Nkoudou,France,Winger,14,1995-02-13,68,174
+727,750,N/A,p240286,Moussa,Seydi,Senegal,Unknown,Unknown,1996-08-21,Unknown,Unknown
+728,751,N/A,p119704,Fadil,Sido,Burkina Faso,Unknown,2,1993-04-13,65,170
+729,752,N/A,p230178,Popoola,Saliu,Nigeria,Attacking Midfielder,28,1994-08-07,70,168
+730,753,N/A,p115084,Kwame,Nsor,Ghana,Striker,Unknown,1992-08-01,76,188
+731,755,N/A,p168435,Marcel,Tisserand,Congo DR,Central Defender,32,1993-01-10,80,190
+732,756,N/A,p18693,Vagner,Silva da Souza,Brazil,Striker,39,1984-06-11,72,172
+733,757,N/A,p166324,Ivan,Cavaleiro,Portugal,Winger,17,1993-10-18,73,175
+734,760,N/A,p18679,Anthony,Vanden Borre,Belgium,Full Back,20,1987-10-24,78,190
+735,761,N/A,p93835,Dylan,Gissi,Switzerland,Unknown,35,1991-04-27,86,191
+736,763,N/A,p171101,Clément,Lenglet,France,Central Defender,2,1995-06-17,81,186
+737,764,N/A,p175598,Romain,Bauchet,France,Unknown,Unknown,1994-05-02,70,174
+738,765,N/A,p148616,Fernando,Aristeguieta,Venezuela,Striker,2,1992-04-09,82,187
+739,766,N/A,p76507,Nicolaj,Thomsen,Denmark,Winger,23,1993-05-08,75,180
+740,767,N/A,p16106,Lorik,Cana,Albania,Central Defender,5,1983-07-27,77,186
+741,768,N/A,p146603,Julien,Vercauteren,Belgium,Unknown,7,1993-01-12,66,171
+742,769,N/A,p244563,Joakim,Balmy,France,Unknown,Unknown,1997-09-17,64,179
+743,770,N/A,p244561,William,Suaut,France,Unknown,Unknown,1996-04-11,74,180
+744,772,N/A,p115363,Lucas,Rougeaux,France,Unknown,15,1994-05-10,87,185
+745,773,N/A,p56842,Kevin,Gomis,France,Central Defender,5,1989-01-20,85,187
+746,774,N/A,p129497,Hervin,Ongenda,France,Striker,35,1995-06-24,65,170
+747,775,N/A,p225897,Fode,Ballo-Toure,France,Full Back,Unknown,1997-01-03,70,182
+748,776,N/A,p41270,David,Luiz Moreira Marinho,Brazil,Central Defender,32,1987-04-22,84,189
+749,777,N/A,p80710,Benjamin,Stambouli,France,Central Midfielder,4,1990-08-13,82,180
+750,778,N/A,p49957,Kamil,Grosicki,Poland,Winger,10,1988-06-08,78,180
+751,779,N/A,p55250,Christian,Brüls,Belgium,Attacking Midfielder,37,1988-09-30,74,179
+752,780,N/A,p54685,Mouhamadou Habib,Habibou,Central African Republic,Unknown,38,1987-04-16,80,192
+753,781,N/A,p111516,Pedro Henrique,Konzen Medina da Silva,Brazil,Unknown,18,1990-06-16,73,179
+754,782,N/A,p90126,Paul-Georges,Ntep de Madiba,Cameroon,Second Striker,7,1992-07-29,75,180
+755,783,N/A,p107098,Paul,Nardi,France,Goalkeeper,Unknown,1994-05-18,81,188
+756,785,N/A,p40832,Anthony,Mounier,France,Winger,Unknown,1987-09-27,65,174
+757,786,N/A,p244204,Benjamin,Aulagnier,France,Unknown,Unknown,1998-03-10,Unknown,Unknown
+758,787,N/A,p229921,Clement,Cabaton,France,Unknown,Unknown,1996-06-06,76,187
+759,788,N/A,p55134,Yohan,Mollo,France,Winger,20,1989-07-18,78,175
+760,789,N/A,p243743,Quentin,Depehi,France,Unknown,Unknown,1997-06-06,70,180
+761,790,N/A,p199669,Maxime,Pelican,France,Unknown,Unknown,1998-05-12,65,178

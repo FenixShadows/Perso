@@ -1,0 +1,69 @@
+,Event ID,Name
+1,1,Pass
+2,2,Offside Pass
+3,3,Take On
+4,4,Foul
+5,5,Out
+6,6,Corner awarded
+8,7,Tackle
+9,8,Interception
+10,9,Turnover
+11,10,Save
+12,11,Claim
+13,12,Clearance
+14,13,Miss
+15,14,Post
+16,15,Attempt Saved
+17,16,Goal
+18,17,Card
+19,18,Player Off
+20,19,Player on
+21,20,Player retired
+22,21,Player returns
+23,22,Player becomes goalkeeper
+25,23,Goalkeeper becomes player
+27,24,Condition change
+28,25,Official change
+29,27,Start delay
+30,28,End delay
+31,30,End
+32,32,Start
+33,34,Team set up
+34,35,Player changed position
+35,36,Player changed Jersey number
+36,37,Collection End
+37,38,Temp_Goal
+38,39,Temp_Attempt
+39,40,Formation change
+40,41,Punch
+41,42,Good skill
+42,43,Deleted event
+43,44,Aerial
+44,45,Challenge
+45,47,Rescinded card
+47,50,Dispossessed
+48,51,Error
+49,52,Keeper pick-up
+50,53,Cross not claimed
+51,54,Smother
+52,55,Offside provoked
+53,56,Shield ball opp
+54,57,Foul throw-in
+55,58,Penalty faced
+56,59,Keeper Sweeper
+57,60,Chance missed
+58,61,Ball touch
+59,63,Temp_Save
+60,64,Resume
+61,65,Contentious referee decision
+63,66,Possession Data
+64,67,50/50
+65,68,Referee Drop Ball
+66,70,Injury Time Announcement
+67,71,Coach Setup
+68,72,Caught Offside
+69,74,Blocked Pass
+70,75,Delayed Start
+71,76,Early end
+72,77,Player Off Pitch
+73,79,Coverage interuption
